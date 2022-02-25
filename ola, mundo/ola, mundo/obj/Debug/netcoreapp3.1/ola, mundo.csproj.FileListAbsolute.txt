@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\bin\Debug\netcoreapp3.1\ola, mundo.exe
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\bin\Debug\netcoreapp3.1\ola, mundo.deps.json
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\bin\Debug\netcoreapp3.1\ola, mundo.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\bin\Debug\netcoreapp3.1\ola, mundo.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\bin\Debug\netcoreapp3.1\ola, mundo.dll
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\bin\Debug\netcoreapp3.1\ola, mundo.pdb
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\obj\Debug\netcoreapp3.1\ola, mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\obj\Debug\netcoreapp3.1\ola, mundo.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\obj\Debug\netcoreapp3.1\ola, mundo.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\obj\Debug\netcoreapp3.1\ola, mundo.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\obj\Debug\netcoreapp3.1\ola, mundo.dll
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\obj\Debug\netcoreapp3.1\ola, mundo.pdb
+C:\Users\six\Desktop\projetos C#\ola, mundo\ola, mundo\obj\Debug\netcoreapp3.1\ola, mundo.genruntimeconfig.cache
