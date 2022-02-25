@@ -1,0 +1,14 @@
+C:\Users\six\source\repos\retangulo\retangulo\bin\Debug\netcoreapp3.1\retangulo.exe
+C:\Users\six\source\repos\retangulo\retangulo\bin\Debug\netcoreapp3.1\retangulo.deps.json
+C:\Users\six\source\repos\retangulo\retangulo\bin\Debug\netcoreapp3.1\retangulo.runtimeconfig.json
+C:\Users\six\source\repos\retangulo\retangulo\bin\Debug\netcoreapp3.1\retangulo.runtimeconfig.dev.json
+C:\Users\six\source\repos\retangulo\retangulo\bin\Debug\netcoreapp3.1\retangulo.dll
+C:\Users\six\source\repos\retangulo\retangulo\bin\Debug\netcoreapp3.1\retangulo.pdb
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.csproj.AssemblyReference.cache
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.AssemblyInfoInputs.cache
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.AssemblyInfo.cs
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.dll
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.pdb
+C:\Users\six\source\repos\retangulo\retangulo\obj\Debug\netcoreapp3.1\retangulo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp3.1\menor_de_tres.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp3.1\menor_de_tres.genruntimeconfig.cache

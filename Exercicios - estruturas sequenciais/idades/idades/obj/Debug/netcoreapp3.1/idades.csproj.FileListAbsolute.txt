@@ -1,0 +1,14 @@
+C:\Users\six\source\repos\idades\idades\bin\Debug\netcoreapp3.1\idades.exe
+C:\Users\six\source\repos\idades\idades\bin\Debug\netcoreapp3.1\idades.deps.json
+C:\Users\six\source\repos\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.json
+C:\Users\six\source\repos\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.dev.json
+C:\Users\six\source\repos\idades\idades\bin\Debug\netcoreapp3.1\idades.dll
+C:\Users\six\source\repos\idades\idades\bin\Debug\netcoreapp3.1\idades.pdb
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.csproj.AssemblyReference.cache
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfoInputs.cache
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfo.cs
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.dll
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.pdb
+C:\Users\six\source\repos\idades\idades\obj\Debug\netcoreapp3.1\idades.genruntimeconfig.cache

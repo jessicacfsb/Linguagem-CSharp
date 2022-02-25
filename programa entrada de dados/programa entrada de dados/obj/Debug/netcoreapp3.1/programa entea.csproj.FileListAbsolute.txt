@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\obj\Debug\netcoreapp3.1\programa entea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\obj\Debug\netcoreapp3.1\programa entea.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\obj\Debug\netcoreapp3.1\programa entea.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\obj\Debug\netcoreapp3.1\programa entea.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\bin\Debug\netcoreapp3.1\programa entea.exe
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\bin\Debug\netcoreapp3.1\programa entea.deps.json
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\bin\Debug\netcoreapp3.1\programa entea.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\bin\Debug\netcoreapp3.1\programa entea.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\bin\Debug\netcoreapp3.1\programa entea.dll
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\bin\Debug\netcoreapp3.1\programa entea.pdb
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\obj\Debug\netcoreapp3.1\programa entea.dll
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\obj\Debug\netcoreapp3.1\programa entea.pdb
+C:\Users\six\Desktop\projetos C#\programa entea\programa entea\obj\Debug\netcoreapp3.1\programa entea.genruntimeconfig.cache
