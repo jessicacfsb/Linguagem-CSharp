@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\bin\Debug\netcoreapp3.1\soma vetores.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\bin\Debug\netcoreapp3.1\soma vetores.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\bin\Debug\netcoreapp3.1\soma vetores.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\bin\Debug\netcoreapp3.1\soma vetores.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\bin\Debug\netcoreapp3.1\soma vetores.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\bin\Debug\netcoreapp3.1\soma vetores.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\soma vetores\soma vetores\obj\Debug\netcoreapp3.1\soma vetores.genruntimeconfig.cache
