@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\obj\Debug\netcoreapp3.1\soma impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\obj\Debug\netcoreapp3.1\soma impares.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\obj\Debug\netcoreapp3.1\soma impares.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\obj\Debug\netcoreapp3.1\soma impares.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\bin\Debug\netcoreapp3.1\soma impares.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\bin\Debug\netcoreapp3.1\soma impares.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\bin\Debug\netcoreapp3.1\soma impares.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\bin\Debug\netcoreapp3.1\soma impares.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\bin\Debug\netcoreapp3.1\soma impares.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\bin\Debug\netcoreapp3.1\soma impares.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\obj\Debug\netcoreapp3.1\soma impares.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\obj\Debug\netcoreapp3.1\soma impares.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\soma impares\soma impares\obj\Debug\netcoreapp3.1\soma impares.genruntimeconfig.cache
