@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\obj\Debug\netcoreapp3.1\media idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\obj\Debug\netcoreapp3.1\media idades.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\obj\Debug\netcoreapp3.1\media idades.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\obj\Debug\netcoreapp3.1\media idades.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\bin\Debug\netcoreapp3.1\media idades.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\bin\Debug\netcoreapp3.1\media idades.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\bin\Debug\netcoreapp3.1\media idades.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\bin\Debug\netcoreapp3.1\media idades.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\bin\Debug\netcoreapp3.1\media idades.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\bin\Debug\netcoreapp3.1\media idades.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\obj\Debug\netcoreapp3.1\media idades.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\obj\Debug\netcoreapp3.1\media idades.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\media idades\media idades\obj\Debug\netcoreapp3.1\media idades.genruntimeconfig.cache
