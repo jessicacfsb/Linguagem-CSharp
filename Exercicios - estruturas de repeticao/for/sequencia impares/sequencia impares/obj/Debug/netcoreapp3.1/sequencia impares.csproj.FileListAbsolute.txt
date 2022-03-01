@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\bin\Debug\netcoreapp3.1\sequencia impares.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\bin\Debug\netcoreapp3.1\sequencia impares.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\bin\Debug\netcoreapp3.1\sequencia impares.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\bin\Debug\netcoreapp3.1\sequencia impares.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\bin\Debug\netcoreapp3.1\sequencia impares.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\bin\Debug\netcoreapp3.1\sequencia impares.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\obj\Debug\netcoreapp3.1\sequencia impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\obj\Debug\netcoreapp3.1\sequencia impares.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\obj\Debug\netcoreapp3.1\sequencia impares.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\obj\Debug\netcoreapp3.1\sequencia impares.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\obj\Debug\netcoreapp3.1\sequencia impares.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\obj\Debug\netcoreapp3.1\sequencia impares.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\sequencia impares\sequencia impares\obj\Debug\netcoreapp3.1\sequencia impares.genruntimeconfig.cache

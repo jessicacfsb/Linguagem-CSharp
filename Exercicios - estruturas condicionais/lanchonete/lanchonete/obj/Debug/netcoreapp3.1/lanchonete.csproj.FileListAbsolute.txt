@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\bin\Debug\netcoreapp3.1\lanchonete.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\bin\Debug\netcoreapp3.1\lanchonete.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\bin\Debug\netcoreapp3.1\lanchonete.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\bin\Debug\netcoreapp3.1\lanchonete.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\bin\Debug\netcoreapp3.1\lanchonete.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\bin\Debug\netcoreapp3.1\lanchonete.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\lanchonete\lanchonete\obj\Debug\netcoreapp3.1\lanchonete.genruntimeconfig.cache

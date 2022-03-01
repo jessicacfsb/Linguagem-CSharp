@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\bin\Debug\netcoreapp3.1\terreno.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\bin\Debug\netcoreapp3.1\terreno.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\bin\Debug\netcoreapp3.1\terreno.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\bin\Debug\netcoreapp3.1\terreno.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\bin\Debug\netcoreapp3.1\terreno.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\bin\Debug\netcoreapp3.1\terreno.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas sequenciais\terreno\terreno\obj\Debug\netcoreapp3.1\terreno.genruntimeconfig.cache

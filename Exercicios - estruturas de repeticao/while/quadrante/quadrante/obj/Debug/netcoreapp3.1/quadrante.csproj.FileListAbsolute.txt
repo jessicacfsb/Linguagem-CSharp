@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\bin\Debug\netcoreapp3.1\quadrante.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\bin\Debug\netcoreapp3.1\quadrante.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\bin\Debug\netcoreapp3.1\quadrante.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\bin\Debug\netcoreapp3.1\quadrante.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\bin\Debug\netcoreapp3.1\quadrante.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\bin\Debug\netcoreapp3.1\quadrante.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\obj\Debug\netcoreapp3.1\quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\obj\Debug\netcoreapp3.1\quadrante.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\obj\Debug\netcoreapp3.1\quadrante.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\obj\Debug\netcoreapp3.1\quadrante.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\obj\Debug\netcoreapp3.1\quadrante.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\obj\Debug\netcoreapp3.1\quadrante.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\quadrante\quadrante\obj\Debug\netcoreapp3.1\quadrante.genruntimeconfig.cache

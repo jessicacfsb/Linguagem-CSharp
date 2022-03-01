@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\bin\Debug\netcoreapp3.1\operadora.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\bin\Debug\netcoreapp3.1\operadora.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\bin\Debug\netcoreapp3.1\operadora.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\bin\Debug\netcoreapp3.1\operadora.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\bin\Debug\netcoreapp3.1\operadora.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\bin\Debug\netcoreapp3.1\operadora.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\obj\Debug\netcoreapp3.1\operadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\obj\Debug\netcoreapp3.1\operadora.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\obj\Debug\netcoreapp3.1\operadora.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\obj\Debug\netcoreapp3.1\operadora.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\obj\Debug\netcoreapp3.1\operadora.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\obj\Debug\netcoreapp3.1\operadora.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\operadora\operadora\obj\Debug\netcoreapp3.1\operadora.genruntimeconfig.cache

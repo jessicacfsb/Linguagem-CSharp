@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\bin\Debug\netcoreapp3.1\dentro fora.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\bin\Debug\netcoreapp3.1\dentro fora.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\bin\Debug\netcoreapp3.1\dentro fora.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\bin\Debug\netcoreapp3.1\dentro fora.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\bin\Debug\netcoreapp3.1\dentro fora.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\bin\Debug\netcoreapp3.1\dentro fora.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\obj\Debug\netcoreapp3.1\dentro fora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\obj\Debug\netcoreapp3.1\dentro fora.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\obj\Debug\netcoreapp3.1\dentro fora.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\obj\Debug\netcoreapp3.1\dentro fora.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\obj\Debug\netcoreapp3.1\dentro fora.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\obj\Debug\netcoreapp3.1\dentro fora.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\for\dentro fora\dentro fora\obj\Debug\netcoreapp3.1\dentro fora.genruntimeconfig.cache

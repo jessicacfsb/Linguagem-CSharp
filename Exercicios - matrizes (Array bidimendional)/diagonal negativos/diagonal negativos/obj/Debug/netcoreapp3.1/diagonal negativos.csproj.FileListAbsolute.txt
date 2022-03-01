@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\bin\Debug\netcoreapp3.1\diagonal negativos.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\bin\Debug\netcoreapp3.1\diagonal negativos.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\bin\Debug\netcoreapp3.1\diagonal negativos.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\bin\Debug\netcoreapp3.1\diagonal negativos.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\bin\Debug\netcoreapp3.1\diagonal negativos.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\bin\Debug\netcoreapp3.1\diagonal negativos.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\diagonal negativos\diagonal negativos\obj\Debug\netcoreapp3.1\diagonal negativos.genruntimeconfig.cache

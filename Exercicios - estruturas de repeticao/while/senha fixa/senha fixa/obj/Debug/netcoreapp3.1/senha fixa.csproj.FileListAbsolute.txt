@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\bin\Debug\netcoreapp3.1\senha fixa.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\bin\Debug\netcoreapp3.1\senha fixa.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\bin\Debug\netcoreapp3.1\senha fixa.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\bin\Debug\netcoreapp3.1\senha fixa.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\bin\Debug\netcoreapp3.1\senha fixa.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\bin\Debug\netcoreapp3.1\senha fixa.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\senha fixa\senha fixa\obj\Debug\netcoreapp3.1\senha fixa.genruntimeconfig.cache

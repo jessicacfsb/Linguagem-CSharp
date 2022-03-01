@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\bin\Debug\netcoreapp3.1\notas.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\bin\Debug\netcoreapp3.1\notas.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\bin\Debug\netcoreapp3.1\notas.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\bin\Debug\netcoreapp3.1\notas.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\bin\Debug\netcoreapp3.1\notas.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\bin\Debug\netcoreapp3.1\notas.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\obj\Debug\netcoreapp3.1\notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\obj\Debug\netcoreapp3.1\notas.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\obj\Debug\netcoreapp3.1\notas.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\obj\Debug\netcoreapp3.1\notas.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\obj\Debug\netcoreapp3.1\notas.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\obj\Debug\netcoreapp3.1\notas.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\notas\notas\obj\Debug\netcoreapp3.1\notas.genruntimeconfig.cache

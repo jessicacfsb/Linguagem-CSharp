@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\bin\Debug\netcoreapp3.1\validacao de nota.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\bin\Debug\netcoreapp3.1\validacao de nota.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\bin\Debug\netcoreapp3.1\validacao de nota.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\bin\Debug\netcoreapp3.1\validacao de nota.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\bin\Debug\netcoreapp3.1\validacao de nota.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\bin\Debug\netcoreapp3.1\validacao de nota.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas de repeticao\while\validacao de nota\validacao de nota\obj\Debug\netcoreapp3.1\validacao de nota.genruntimeconfig.cache

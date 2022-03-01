@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\bin\Debug\netcoreapp3.1\dardo.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\bin\Debug\netcoreapp3.1\dardo.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\bin\Debug\netcoreapp3.1\dardo.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\bin\Debug\netcoreapp3.1\dardo.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\bin\Debug\netcoreapp3.1\dardo.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\bin\Debug\netcoreapp3.1\dardo.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\obj\Debug\netcoreapp3.1\dardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\obj\Debug\netcoreapp3.1\dardo.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\obj\Debug\netcoreapp3.1\dardo.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\obj\Debug\netcoreapp3.1\dardo.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\obj\Debug\netcoreapp3.1\dardo.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\obj\Debug\netcoreapp3.1\dardo.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - estruturas condicionais\dardo\dardo\obj\Debug\netcoreapp3.1\dardo.genruntimeconfig.cache
