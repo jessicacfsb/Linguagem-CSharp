@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\bin\Debug\netcoreapp3.1\negativos matriz.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\bin\Debug\netcoreapp3.1\negativos matriz.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\bin\Debug\netcoreapp3.1\negativos matriz.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\bin\Debug\netcoreapp3.1\negativos matriz.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\bin\Debug\netcoreapp3.1\negativos matriz.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\bin\Debug\netcoreapp3.1\negativos matriz.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\obj\Debug\netcoreapp3.1\negativos matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\obj\Debug\netcoreapp3.1\negativos matriz.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\obj\Debug\netcoreapp3.1\negativos matriz.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\obj\Debug\netcoreapp3.1\negativos matriz.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\obj\Debug\netcoreapp3.1\negativos matriz.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\obj\Debug\netcoreapp3.1\negativos matriz.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\negativos matriz\negativos matriz\obj\Debug\netcoreapp3.1\negativos matriz.genruntimeconfig.cache

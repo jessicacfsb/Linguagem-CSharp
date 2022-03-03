@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\bin\Debug\netcoreapp3.1\negativos.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\bin\Debug\netcoreapp3.1\negativos.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\bin\Debug\netcoreapp3.1\negativos.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\bin\Debug\netcoreapp3.1\negativos.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\bin\Debug\netcoreapp3.1\negativos.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\bin\Debug\netcoreapp3.1\negativos.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - vetores (Array unidimendional)\negativos\negativos\obj\Debug\netcoreapp3.1\negativos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\bin\Debug\netcoreapp3.1\cada linha.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\bin\Debug\netcoreapp3.1\cada linha.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\bin\Debug\netcoreapp3.1\cada linha.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\bin\Debug\netcoreapp3.1\cada linha.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\bin\Debug\netcoreapp3.1\cada linha.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\bin\Debug\netcoreapp3.1\cada linha.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\obj\Debug\netcoreapp3.1\cada linha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\obj\Debug\netcoreapp3.1\cada linha.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\obj\Debug\netcoreapp3.1\cada linha.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\obj\Debug\netcoreapp3.1\cada linha.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\obj\Debug\netcoreapp3.1\cada linha.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\obj\Debug\netcoreapp3.1\cada linha.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\cada linha\cada linha\obj\Debug\netcoreapp3.1\cada linha.genruntimeconfig.cache
