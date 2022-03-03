@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\bin\Debug\netcoreapp3.1\soma matrizes.exe
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\bin\Debug\netcoreapp3.1\soma matrizes.deps.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\bin\Debug\netcoreapp3.1\soma matrizes.runtimeconfig.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\bin\Debug\netcoreapp3.1\soma matrizes.runtimeconfig.dev.json
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\bin\Debug\netcoreapp3.1\soma matrizes.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\bin\Debug\netcoreapp3.1\soma matrizes.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.AssemblyInfo.cs
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.dll
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.pdb
+C:\Users\six\Desktop\projetos C#\Exercicios - matrizes (Array bidimendional)\soma matrizes\soma matrizes\obj\Debug\netcoreapp3.1\soma matrizes.genruntimeconfig.cache
